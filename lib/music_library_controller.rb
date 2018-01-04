@@ -67,5 +67,5 @@ class MusicLibraryController
     list_songs
     input = gets.strip
   end
-  
+
 end
